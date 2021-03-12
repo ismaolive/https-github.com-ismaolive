@@ -1,8 +1,8 @@
 ---
 layout: post
-title: <Welcome to the desert of the real>
+title: Welcome to the desert of the real
 subtitle: The Matrix has you...
-gh-repo: daattali/beautiful-jekyll
+gh-repo: 
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
